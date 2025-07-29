@@ -1,4 +1,5 @@
 *.bc
 *.o
 *.so
+.built-with-pg-*
 /results/
